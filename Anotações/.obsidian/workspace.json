@@ -11,21 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Trabalho/Projeto Servico Social/TODO KANBAN.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Trabalho/Projeto Servico Social/Scaffolding.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO KANBAN"
+              "icon": "lucide-file",
+              "title": "Scaffolding"
             }
           }
         ]
@@ -130,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Projeto Servico Social/TODO KANBAN.md",
+                "file": "Trabalho/Projeto Servico Social/Scaffolding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODO KANBAN"
+              "title": "Outgoing links from Scaffolding"
             }
           },
           {
@@ -159,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho/Projeto Servico Social/TODO KANBAN.md",
+                "file": "Trabalho/Projeto Servico Social/Scaffolding.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO KANBAN"
+              "title": "Outline of Scaffolding"
             }
           },
           {
@@ -203,17 +196,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7634633fcc5a0763",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Trabalho/Projeto Servico Social/Querys.md",
     "Trabalho/Projeto Servico Social/Método de seleção de conexão de banco de dados.md",
+    "Trabalho/Projeto Servico Social/Documentação da API.md",
     "Trabalho/Projeto Servico Social/TODO KANBAN.md",
     "Trabalho/Projeto Servico Social/Untitled.md",
     "Trabalho/Projeto Servico Social/TODO LIST.md",
-    "Trabalho/Projeto Servico Social/Documentação da API.md",
     "Trabalho/Projeto Servico Social/Todo Kanban.md",
     "nuatendor da ssdusuquestionario deve ser o referente ao atendimento do preenchimento do questionário;.md",
     "Trabalho/Projeto Servico Social/Scaffolding.md",
-    "Trabalho/Projeto Servico Social/Querys.md",
     "Trabalho/Projeto Servico Social/Deploy.md",
     "Images/Pasted image 20250324115225.png",
     "Images",
