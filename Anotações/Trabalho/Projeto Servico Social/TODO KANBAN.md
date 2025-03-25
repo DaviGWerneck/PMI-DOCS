@@ -1,9 +1,13 @@
-# Kanban - Tarefas de Desenvolvimento
+---
 
-## A Fazer
+kanban-plugin: board
 
-- [ ] **Revisar código do Gael que usa muita plain query, se possível adaptar para uso do EF Core**
+---
+
+## Backlog
+
 - [ ] **Adicionar DTO para as rotas de relatório, e refatorar o código**
+- [ ] **Grupo familiar debug**
 - [ ] **Verificar segurança serviço por serviço**
 - [ ] **Tela para cadastrar perguntas**
 - [ ] **Criar Rota para CEP**
@@ -17,14 +21,29 @@
 - [ ] **-campo dtnascpessoa da tabela ssdentservicosocialgrfamiliar não está gravando no formato : "aaaammdd"**
 - [ ] **-tela de bloqueados para visita não está permitindo pesquisar um código de sanitas de um usuário que já existe**
 
-## Em Progresso
+
+## Doing
 
 - [ ] **Inserir cdususist e cdativpro usando a tabela visão NomeProfissional. Quando não tiver cdativpro usar um fixo do serviço social**
 - [ ] **Mudar lógica de armazenamento de CPF, Validação (consumir API Invertexto se possível)**
-  
-## Concluído
+
+
+## Review
+
+- [ ] **Revisar código do Gael que usa muita plain query, se possível adaptar para uso do EF Core**
+
+
+## Done
 
 - [x] ~~**Rota para retornar desativados e finalizados da fila de atendimento**~~
 - [x] ~~**Trazer Nuatend da evolução de conduta > - tabela sscentservicosocial -> ssdatinte -> ssdobs**~~
 - [x] ~~**Ensinar Gael a fazer deploy no servidor, abrir chamado no SEATEC para matrícula**~~
-- [x] **Grupo familiar debug**
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+```
+%%
