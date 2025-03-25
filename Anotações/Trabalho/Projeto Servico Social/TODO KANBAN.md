@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] **Cdususist de TODAS as tabelas deve ser o usucod da tabela usuario do banco guardian**
 - [ ] **-campo dtnascpessoa da tabela ssdentservicosocialgrfamiliar não está gravando no formato : "aaaammdd"**
 - [ ] **-tela de bloqueados para visita não está permitindo pesquisar um código de sanitas de um usuário que já existe**
+- [ ] Criar método de seleção de conexão de banco de dados.
 
 
 ## Doing
