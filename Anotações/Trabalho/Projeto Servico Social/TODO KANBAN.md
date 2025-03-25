@@ -10,7 +10,6 @@ kanban-plugin: board
 - [ ] **Grupo familiar debug**
 - [ ] **Verificar segurança serviço por serviço**
 - [ ] **Tela para cadastrar perguntas**
-- [ ] **Criar Rota para CEP**
 - [ ] **-nuatendor da ssdusuquestionario deve ser o referente ao atendimento do preenchimento do questionário**
 - [ ] **-cdusuassi na sscatend deve ser o usucod da tabela usuario do banco guardian**
 - [ ] **-cdusuinc na sscatend deve ser o usucod da tabela usuario do banco guardian**
@@ -26,6 +25,7 @@ kanban-plugin: board
 - [ ] **-cdprofiss/cdativpro na sscatend precisa ser do profissional que está logado - ver através da visão nomeprofissional. Exceto para nossas matrículas, testes no treinamento fixar um cdprofiss**
 - [ ] **-cdususist na sscatend deve ser o usucod da tabela usuario do banco guardian**
 - [ ] **Mudar lógica de armazenamento de CPF, Validação (consumir API Invertexto se possível)**
+- [ ] **Criar Rota para CEP**
 
 
 ## Review
