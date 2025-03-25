@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da22ad4de6bde1b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f92c8b32f39d8d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7634633fcc5a0763",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "809f7c3093a5b389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9bbaeed94e7f4e22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5a97f59a074c4d1b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f005bcd4a5f6b84f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ada7cf1dc612c174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4da6f95cc56d15b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RPG/6 - Sistema/Karma.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Karma"
+            }
+          },
+          {
+            "id": "bb31403a63dcd4b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RPG/6 - Sistema/Karma.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Karma"
+            }
+          },
+          {
+            "id": "da7b4acc260fca89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b3a41768dcf4704f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RPG/6 - Sistema/Karma.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Karma"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Trabalho/Projeto Servico Social/Documentação da API.md",
+    "Trabalho/Projeto Servico Social/TODO LIST.md",
+    "Trabalho/Projeto Servico Social/Scaffolding.md",
+    "Trabalho/Projeto Servico Social/Querys.md",
+    "Trabalho/Projeto Servico Social/Deploy.md",
+    "Images/Pasted image 20250324115225.png",
+    "Images",
+    "Images/Pasted image 20250324120123.png",
+    "Images/Pasted image 20250324115800.png",
+    "Images/Pasted image 20250324115651.png",
+    "Images/Pasted image 20250324115632.png",
+    "Images/Pasted image 20250324115545.png",
+    "Images/Pasted image 20250324115301.png",
+    "Trabalho/Ficha SINAN/TODO LIST.md",
+    "Estudos/Ciencia da Computação/Calendário.md",
+    "Estudos/Engenharia de Software",
+    "Estudos/Ciencia da Computação",
+    "Trabalho/Ficha SINAN",
+    "Trabalho/Projeto Servico Social",
+    "Estudos",
+    "Trabalho",
+    "Árvore Anciã/Árvore Anciã.md",
+    "Árvore Anciã/A jornada dos imortais.md",
+    "Árvore Anciã/Árvore Anciã - Visão Geral.canvas",
+    "Árvore Anciã/Thalassar/Thalassar - Visão Geral.canvas",
+    "Árvore Anciã/Thalassar/Thalassar.md",
+    "Árvore Anciã/Thalassar/A revolta dos desesperados.md",
+    "Árvore Anciã/Raças/Filhos do Mar.md",
+    "Árvore Anciã/Raças/Filhos do Céu.md",
+    "Árvore Anciã/Os Sussurradores/Os Raios de Sol.md",
+    "Árvore Anciã/Os Sussurradores/As raizes profundas.md",
+    "Árvore Anciã/Os Sussurradores/As Estrelas Cadentes.md",
+    "Árvore Anciã/Os Sussurradores/Os Sussurradores.md",
+    "Árvore Anciã/Os Radilhantes/Os Radilhantes.md",
+    "Árvore Anciã/Os Cracanos/Os Cracanos.md",
+    "RPG/1 - Raça/Zytherin.md",
+    "RPG/1 - Raça/Meio-Sereia.md",
+    "Pasted image 20250310173921.png",
+    "RPG/1 - Raça/Inumano.md",
+    "RPG/1 - Raça/Humano.md",
+    "RPG/1 - Raça/Fada.md",
+    "Pasted image 20250310174946.png",
+    "Pasted image 20250310172816.png",
+    "Árvore Anciã/Raças/Humanos.md",
+    "RPG/Ideia GPT"
+  ]
+}
