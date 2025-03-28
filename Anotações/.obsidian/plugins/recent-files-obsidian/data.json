@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Scaffolding",
-      "path": "Trabalho/Projeto Servico Social/Scaffolding.md"
+      "basename": "TODO",
+      "path": "Trabalho/FICHA SINAN/TODO.md"
+    },
+    {
+      "basename": "TODO LIST",
+      "path": "Trabalho/Projeto Servico Social/TODO LIST.md"
+    },
+    {
+      "basename": "TODO KANBAN",
+      "path": "Trabalho/Projeto Servico Social/TODO KANBAN.md"
+    },
+    {
+      "basename": "Deploy",
+      "path": "Trabalho/Projeto Servico Social/Deploy.md"
     },
     {
       "basename": "Querys",
@@ -17,24 +29,12 @@
       "path": "Trabalho/Projeto Servico Social/Documentação da API.md"
     },
     {
-      "basename": "TODO KANBAN",
-      "path": "Trabalho/Projeto Servico Social/TODO KANBAN.md"
-    },
-    {
-      "basename": "TODO LIST",
-      "path": "Trabalho/Projeto Servico Social/TODO LIST.md"
-    },
-    {
-      "basename": "Deploy",
-      "path": "Trabalho/Projeto Servico Social/Deploy.md"
+      "basename": "Scaffolding",
+      "path": "Trabalho/Projeto Servico Social/Scaffolding.md"
     },
     {
       "basename": "Pasted image 20250324115225",
       "path": "Images/Pasted image 20250324115225.png"
-    },
-    {
-      "basename": "TODO LIST",
-      "path": "Trabalho/Ficha SINAN/TODO LIST.md"
     }
   ],
   "omittedPaths": [],

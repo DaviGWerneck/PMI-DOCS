@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Projeto Servico Social/Scaffolding.md",
+                "file": "Trabalho/FICHA SINAN/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scaffolding"
+              "title": "TODO"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Projeto Servico Social/Scaffolding.md",
+                "file": "Trabalho/FICHA SINAN/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Scaffolding"
+              "title": "Outgoing links from TODO"
             }
           },
           {
@@ -167,8 +167,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -198,16 +198,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Trabalho/Projeto Servico Social/TODO LIST.md",
+    "Trabalho/FICHA SINAN/TODO.md",
+    "Trabalho/Projeto Servico Social/TODO KANBAN.md",
+    "Trabalho/FICHA SINAN",
+    "Trabalho/Projeto Servico Social/Deploy.md",
     "Trabalho/Projeto Servico Social/Querys.md",
     "Trabalho/Projeto Servico Social/Método de seleção de conexão de banco de dados.md",
     "Trabalho/Projeto Servico Social/Documentação da API.md",
-    "Trabalho/Projeto Servico Social/TODO KANBAN.md",
+    "Trabalho/Ficha SINAN/TODO LIST.md",
+    "Trabalho/Projeto Servico Social/Scaffolding.md",
     "Trabalho/Projeto Servico Social/Untitled.md",
-    "Trabalho/Projeto Servico Social/TODO LIST.md",
     "Trabalho/Projeto Servico Social/Todo Kanban.md",
     "nuatendor da ssdusuquestionario deve ser o referente ao atendimento do preenchimento do questionário;.md",
-    "Trabalho/Projeto Servico Social/Scaffolding.md",
-    "Trabalho/Projeto Servico Social/Deploy.md",
     "Images/Pasted image 20250324115225.png",
     "Images",
     "Images/Pasted image 20250324120123.png",
@@ -216,7 +219,6 @@
     "Images/Pasted image 20250324115632.png",
     "Images/Pasted image 20250324115545.png",
     "Images/Pasted image 20250324115301.png",
-    "Trabalho/Ficha SINAN/TODO LIST.md",
     "Estudos/Ciencia da Computação/Calendário.md",
     "Estudos/Engenharia de Software",
     "Estudos/Ciencia da Computação",
@@ -239,7 +241,6 @@
     "Árvore Anciã/Os Radilhantes/Os Radilhantes.md",
     "Árvore Anciã/Os Cracanos/Os Cracanos.md",
     "RPG/1 - Raça/Zytherin.md",
-    "RPG/1 - Raça/Meio-Sereia.md",
     "Pasted image 20250310173921.png",
     "Pasted image 20250310174946.png",
     "Pasted image 20250310172816.png",
