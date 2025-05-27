@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/Projeto Servico Social/Scaffolding.md",
+                "file": "Estudos/Rotina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scaffolding"
+              "title": "Rotina"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho/Projeto Servico Social/Scaffolding.md",
+                "file": "Estudos/Rotina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Scaffolding"
+              "title": "Outgoing links from Rotina"
             }
           },
           {
@@ -197,6 +197,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Trabalho/Projeto Servico Social/Scaffolding.md",
+    "Estudos/Rotina.md",
     "Trabalho/Projeto Servico Social/Deploy.md",
     "Trabalho/Projeto Servico Social/Querys.md",
     "Trabalho/Projeto Servico Social/Documentação da API.md",
@@ -204,7 +206,6 @@
     "Estudos/Curso Galego/Estruturas de dados",
     "Estudos/Curso Galego",
     "Estudos",
-    "Trabalho/Projeto Servico Social/Scaffolding.md",
     "Trabalho/Projeto Servico Social/Método de seleção de conexão de banco de dados.md",
     "Trabalho/FICHA SINAN/TODO.md",
     "Trabalho/Projeto Servico Social/TODO LIST.md",
@@ -241,7 +242,6 @@
     "Árvore Anciã/Os Sussurradores/As Estrelas Cadentes.md",
     "Árvore Anciã/Os Sussurradores/Os Sussurradores.md",
     "Árvore Anciã/Os Radilhantes/Os Radilhantes.md",
-    "Árvore Anciã/Os Cracanos/Os Cracanos.md",
     "Pasted image 20250310173921.png",
     "Pasted image 20250310174946.png",
     "Pasted image 20250310172816.png"
