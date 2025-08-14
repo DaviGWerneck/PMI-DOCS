@@ -5,12 +5,16 @@
       "path": "Trabalho/Projeto Servico Social/Scaffolding.md"
     },
     {
-      "basename": "Rotina",
-      "path": "Estudos/Rotina.md"
-    },
-    {
       "basename": "Deploy",
       "path": "Trabalho/Projeto Servico Social/Deploy.md"
+    },
+    {
+      "basename": "TODO LIST",
+      "path": "Trabalho/Projeto Servico Social/TODO LIST.md"
+    },
+    {
+      "basename": "TODO KANBAN",
+      "path": "Trabalho/Projeto Servico Social/TODO KANBAN.md"
     },
     {
       "basename": "Querys",
@@ -21,24 +25,20 @@
       "path": "Trabalho/Projeto Servico Social/Documentação da API.md"
     },
     {
-      "basename": "Big O Notation",
-      "path": "Estudos/Curso Galego/Estruturas de dados/Big O Notation.md"
-    },
-    {
       "basename": "Método de seleção de conexão de banco de dados",
       "path": "Trabalho/Projeto Servico Social/Método de seleção de conexão de banco de dados.md"
     },
     {
+      "basename": "Rotina",
+      "path": "Estudos/Rotina.md"
+    },
+    {
+      "basename": "Big O Notation",
+      "path": "Estudos/Curso Galego/Estruturas de dados/Big O Notation.md"
+    },
+    {
       "basename": "TODO",
       "path": "Trabalho/FICHA SINAN/TODO.md"
-    },
-    {
-      "basename": "TODO LIST",
-      "path": "Trabalho/Projeto Servico Social/TODO LIST.md"
-    },
-    {
-      "basename": "TODO KANBAN",
-      "path": "Trabalho/Projeto Servico Social/TODO KANBAN.md"
     },
     {
       "basename": "Pasted image 20250324115225",
